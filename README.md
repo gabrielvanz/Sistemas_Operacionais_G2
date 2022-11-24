@@ -94,3 +94,12 @@ Base de dados           => exampledb
 3- Clique em **Entrar**
 
 <br>
+
+<h2>Relacionados</h2>
+
+> https://www.canva.com/design/DAFSZ5ui-2I/iIbvgNh31DVjFUMESIZGZg/view?utm_content=DAFSZ5ui-2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+<h2>Referências</h2>
+
+> https://github.com/irtiza07/postgres-python-docker <br>https://hub.docker.com/_/postgres <br>https://hub.docker.com/_/adminer
